@@ -1,5 +1,5 @@
 ## sdf2pgm
-Python Script fo Converterting `.world` to `.pgm` Map 
+Python Script fo Converterting `.world` to `.pgm` `.yaml` Map 
 
 <div align="center">
   <table>

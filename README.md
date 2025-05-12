@@ -14,7 +14,7 @@ Python Script fo Converterting `.world` to `.pgm` `.yaml` Map
   </table>
 </div>
 
-```(yaml)
+```{yaml}
 image: obstacle_world.pgm
 resolution: 0.05
 origin: [-10.0, -10.0, 0.0]

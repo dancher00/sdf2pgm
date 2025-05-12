@@ -14,6 +14,14 @@ Python Script fo Converterting `.world` to `.pgm` `.yaml` Map
   </table>
 </div>
 
+```
+image: obstacle_world.pgm
+resolution: 0.05
+origin: [-10.0, -10.0, 0.0]
+occupied_thresh: 0.65
+free_thresh: 0.196
+negate: 0
+```
 
 ## Usage
 ```
